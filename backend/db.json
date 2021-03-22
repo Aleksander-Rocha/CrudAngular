@@ -1,0 +1,58 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "name": "Aleksander Rocha",
+      "email": "aleksanderrocha12@gmail.com",
+      "cpf": "000.000.000-00"
+    },
+    {
+      "id": 2,
+      "name": "Usuário 2",
+      "email": "usuario2@gmail.com",
+      "cpf": "000.000.000-00"
+    },
+    {
+      "id": 3,
+      "name": "Usuário 3",
+      "email": "usuario3@gmail.com",
+      "cpf": "000.000.000-00"
+    },
+    {
+      "name": "Usuário 4",
+      "email": "usuario4@gmail.com",
+      "cpf": "000.000.000-00",
+      "id": 4
+    },
+    {
+      "name": "Usuário 5",
+      "email": "usuario5@gmail.com",
+      "cpf": "000.000.000-00",
+      "id": 5
+    },
+    {
+      "name": "Usuário 6",
+      "email": "usuario6@gmail.com",
+      "cpf": "000.000.000-00",
+      "id": 6
+    },
+    {
+      "name": "Usuário 7",
+      "email": "usuario7@gmail.com",
+      "cpf": "000.000.000-00",
+      "id": 7
+    },
+    {
+      "name": "Usuário 8",
+      "email": "usuario8@gmail.com",
+      "cpf": "000.000.000-00",
+      "id": 8
+    },
+    {
+      "name": "Usuário 9",
+      "email": "usuario9@gmail.com",
+      "cpf": "000.000.000-00",
+      "id": 9
+    }
+  ]
+}
